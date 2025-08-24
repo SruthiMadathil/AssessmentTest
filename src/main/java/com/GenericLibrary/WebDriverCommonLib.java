@@ -474,27 +474,6 @@ public class WebDriverCommonLib extends Browser {
 
 	}
 
-		// Date Selection
-	public String day() {
-		DateFormat dateFormat = new SimpleDateFormat("dd");
-		Date date = new Date();
-		return dateFormat.format(date);
-	}
-
-	// Date Selection
-	public String month() {
-		DateFormat dateFormat = new SimpleDateFormat("MM");
-		Date date = new Date();
-		return dateFormat.format(date);
-	}
-
-	// Date Selection
-	public String year() {
-		DateFormat dateFormat = new SimpleDateFormat("yyyy");
-		Date date = new Date();
-		return dateFormat.format(date);
-	}
-
 
 
 	
