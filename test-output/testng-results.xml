@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-24T18:35:00 IST" name="Default suite" finished-at="2025-08-24T18:35:22 IST" duration-ms="22262">
+    <groups>
+    </groups>
+    <test started-at="2025-08-24T18:35:00 IST" name="Default test" finished-at="2025-08-24T18:35:22 IST" duration-ms="22262">
+      <class name="TestCases.Employee_CreationTest">
+        <test-method is-config="true" signature="Loadlogfile()[pri:0, instance:TestCases.Employee_CreationTest@1a942c18]" started-at="2025-08-24T18:34:59 IST" name="Loadlogfile" finished-at="2025-08-24T18:35:00 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loadlogfile -->
+        <test-method is-config="true" signature="getBrowser()[pri:0, instance:TestCases.Employee_CreationTest@1a942c18]" started-at="2025-08-24T18:35:00 IST" name="getBrowser" finished-at="2025-08-24T18:35:14 IST" duration-ms="13847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method is-config="true" signature="LoadMethods()[pri:0, instance:TestCases.Employee_CreationTest@1a942c18]" started-at="2025-08-24T18:35:14 IST" name="LoadMethods" finished-at="2025-08-24T18:35:14 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadMethods -->
+        <test-method signature="EmployeeCreationTestcase()[pri:0, instance:TestCases.Employee_CreationTest@1a942c18]" started-at="2025-08-24T18:35:14 IST" name="EmployeeCreationTestcase" finished-at="2025-08-24T18:35:21 IST" duration-ms="6911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployeeCreationTestcase -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:TestCases.Employee_CreationTest@1a942c18]" started-at="2025-08-24T18:35:21 IST" name="Logout" finished-at="2025-08-24T18:35:22 IST" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- TestCases.Employee_CreationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
