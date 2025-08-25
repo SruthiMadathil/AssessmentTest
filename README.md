@@ -9,10 +9,10 @@ Assessment_Test_Project_Aug/
 │── pom.xml
 │── test-output/           
 │── target/                     
-├── src/
-    ├── main/
-    ├── java/
-        └── com.GenericLibrary
+├── src/ 
+	├── main/
+	├── java/
+		└── com.GenericLibrary
            ├── BaseClass                    # Base classes (setup)
            ├── Browser                      # Browser Configurations
            ├── Constants                    # Constants & Config reader
